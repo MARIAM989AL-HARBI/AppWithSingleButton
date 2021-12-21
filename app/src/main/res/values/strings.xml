@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App With Single Button (Bonus)</string>
+    <string name="textview">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="app_withe_single_button">APP withe Single Button</string>
+    <string name="here_enter_text">here..Enter text</string>
+    <string name="show_output">show..Output:)</string>
+</resources>
